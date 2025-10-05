@@ -1,4 +1,4 @@
-# Smart Project Manager
+# Notebook Pro
 
 A **GitHub README–style** project management tool to track ongoing, completed, and future projects locally on your device. Ideal for developers or teams to maintain a personal project portfolio offline.
 
